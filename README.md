@@ -2,7 +2,7 @@
 # 🛒 Walmart Retail Analytics Dashboard
 ### **Business Analytics & Information Systems Project**
 
-This project provides a comprehensive analysis of Walmart's retail performance across multiple stores, utilizing the **CRISP-DM (Cross-Industry Standard Process for Data Mining)** framework[cite: 1]. The dashboard is designed to help stakeholders visualize sales trends, understand the impact of economic factors, and facilitate data-driven decision-making[cite: 1].
+This project provides a comprehensive analysis of Walmart's retail performance across multiple stores, utilizing the **CRISP-DM (Cross-Industry Standard Process for Data Mining)** framework. The dashboard is designed to help stakeholders visualize sales trends, understand the impact of economic factors, and facilitate data-driven decision-making.
 
 ---
 
@@ -13,35 +13,35 @@ This project provides a comprehensive analysis of Walmart's retail performance a
 ---
 
 ## 📊 Dataset Overview
-The dataset contains historical sales records for 45 Walmart stores[cite: 1]. Key features include:
-*   **Weekly_Sales:** Revenue for a specific store in a given week[cite: 1].
-*   **Holiday_Flag:** Indicator for special holiday weeks[cite: 1].
-*   **Fuel_Price:** Regional cost of fuel during the week[cite: 1].
-*   **CPI:** Consumer Price Index[cite: 1].
-*   **Unemployment:** Prevailing unemployment rate in the store's region[cite: 1].
+The dataset contains historical sales records for 45 Walmart stores. Key features include:
+*   **Weekly_Sales:** Revenue for a specific store in a given week.
+*   **Holiday_Flag:** Indicator for special holiday weeks.
+*   **Fuel_Price:** Regional cost of fuel during the week.
+*   **CPI:** Consumer Price Index.
+*   **Unemployment:** Prevailing unemployment rate in the store's region.
 
 ---
 
 ## 🛠️ Tech Stack & Methodology
-*   **Language:** Python[cite: 1]
-*   **Framework:** Streamlit (UI/UX)[cite: 1]
-*   **Libraries:** Pandas, NumPy, Plotly Express, Statsmodels[cite: 1]
-*   **Approach:** Data cleaning includes **Winsorization** to handle outliers and normalization of economic indicators to ensure statistical accuracy[cite: 1].
+*   **Language:** Python
+*   **Framework:** Streamlit (UI/UX).
+*   **Libraries:** Pandas, NumPy, Plotly Express, Statsmodels
+*   **Approach:** Data cleaning includes **Winsorization** to handle outliers and normalization of economic indicators to ensure statistical accuracy.
 
 ---
 
 ## 📈 Key Features
-*   **Dynamic KPI Tracking:** Real-time calculation of Average Weekly Sales, Aggregate Revenue, and Economic Indices[cite: 1].
-*   **Sales Velocity Trends:** Interactive time-series analysis to track store growth[cite: 1].
-*   **Economic Correlation:** Scatter plots with OLS trendlines to visualize the relationship between fuel prices and consumer spending[cite: 1].
-*   **Automated Executive Summary:** A dynamic analysis section that interprets data trends in a concise, professional format[cite: 1].
+*   **Dynamic KPI Tracking:** Real-time calculation of Average Weekly Sales, Aggregate Revenue, and Economic Indices.
+*   **Sales Velocity Trends:** Interactive time-series analysis to track store growth.
+*   **Economic Correlation:** Scatter plots with OLS trendlines to visualize the relationship between fuel prices and consumer spending.
+*   **Automated Executive Summary:** A dynamic analysis section that interprets data trends in a concise, professional format.
 
 ---
 
 ## 👥 Lead Analysts
-*   **Sheikha Maris Nicolas**[cite: 1]
-*   **Duane Ryann Montes**[cite: 1]
-*   **Mikaela Angela Patopaten**[cite: 1]
+*   **Sheikha Maris Nicolas**
+*   **Duane Ryann Montes**
+*   **Mikaela Angela Patopaten**
 
 ---
-*Developed as part of the 3rd Year Information Systems curriculum at the College of Information and Communications Technology.*[cite: 1]
+
